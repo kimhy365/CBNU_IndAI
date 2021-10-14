@@ -21,5 +21,6 @@
 - 이지연 https://github.com/Jiyeon-b/2021_newRepository.git 
 - 최준혁 https://github.com/jhchoi-ii
 
-#### 마크다운(Markdown) 문법
+----------
+### 마크다운(Markdown) 문법
 - 참고 사이트 : https://gist.github.com/ihoneymon/652be052a0727ad59601
