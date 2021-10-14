@@ -9,7 +9,7 @@
 - 원형일 https://github.com/ED-Won/industrial-AI 
 - 임동민 https://github.com/dmlim-cb  
 
-### 가디언 어규호 교수님
+#### (가디언 어규호 교수님)
 - 강용구 https://github.com/Yunkoo-GIT
 - 고정재 https://github.com/kjj3436
 - 신정환 https://github.com/shinjunghwan/industrial-AI-SJH
