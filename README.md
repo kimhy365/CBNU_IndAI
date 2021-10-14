@@ -23,5 +23,8 @@
 - 최준혁 https://github.com/jhchoi-ii
 
 ----------
+### 학회
+- 컴퓨터정보통신연구회 https://ricic.cbnu.ac.kr/ricic/index.php
+
 ### 마크다운(Markdown) 문법
 - 참고 사이트 : https://gist.github.com/ihoneymon/652be052a0727ad59601
