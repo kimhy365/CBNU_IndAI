@@ -7,7 +7,7 @@
 - 김병근 https://github.com/ByeongKeun/Industrial-AI
 - 장민우 https://github.com/mw-jang/industrial-AI
 - 원형일 https://github.com/ED-Won/industrial-AI 
-- 임동민 https://github.com/dmlim-cb  
+- 임동민 https://github.com/dmlim-cbu
 
 #### (가디언 어규호 교수님)
 - 강용구 https://github.com/Yunkoo-GIT
