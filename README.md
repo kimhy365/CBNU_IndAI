@@ -9,13 +9,6 @@
 - 원형일 https://github.com/ED-Won/industrial-AI 
 - 임동민 https://github.com/dmlim-cbu
 
-#### (가디언 어규호 교수님)
-- 강용구 https://github.com/Yunkoo-GIT
-- 고정재 https://github.com/kjj3436
-- 신정환 https://github.com/shinjunghwan/industrial-AI-SJH
-- 안건호 https://github.com/farmslive
-- 유용주 https://github.com/yooyoungjoo94/AI_Industry
-
 ### 21-1학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
 - 우상진 https://github.com/woosangjin 
