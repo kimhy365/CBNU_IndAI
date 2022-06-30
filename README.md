@@ -4,9 +4,9 @@
   - E-mail : kimhy365@cbnu.ac.kr
   
 ### 20학번
-- 박영제 
-- 조유하 
-- 한병엽 
+- 박영제 https://github.com/redoz02
+- 조유하 https://github.com/HelloAIJ
+- 한병엽 https://github.com/Han-ByungYup
 
 ### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
