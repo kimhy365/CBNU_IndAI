@@ -2,18 +2,23 @@
 ### 가디언(산업인공지능연구센터 초빙교수)
 - 김현용 https://github.com/kimhy365
   - E-mail : kimhy365@cbnu.ac.kr
+  
+### 20학번
+- 박영제 
+- 조유하 
+- 한병엽 
 
-### 20-2학번
-- 김병근 https://github.com/ByeongKeun/Industrial-AI
-- 장민우 https://github.com/mw-jang/industrial-AI
-- 원형일 https://github.com/ED-Won/industrial-AI 
-- 임동민 https://github.com/dmlim-cbu
-
-### 21-1학번
+### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
 - 우상진 https://github.com/woosangjin 
 - 이지연 https://github.com/Jiyeon-b/2021_newRepository.git 
 - 최준혁 https://github.com/jhchoi-ii
+
+### 20학번
+- 김병근 (포트폴리오 경진대회 수상) https://github.com/ByeongKeun/Industrial-AI
+- 장민우 https://github.com/mw-jang/industrial-AI
+- 원형일 https://github.com/ED-Won/industrial-AI 
+- 임동민 (포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
 
 ----------
 ### 학회
