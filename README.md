@@ -3,7 +3,7 @@
 - 김현용 https://github.com/kimhy365
   - E-mail : kimhy365@cbnu.ac.kr
   
-### 20학번
+### 22학번
 - 박영제 https://github.com/redoz02
 - 조유하 https://github.com/HelloAIJ
 - 한병엽 https://github.com/Han-ByungYup
