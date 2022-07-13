@@ -22,7 +22,7 @@
 - 원형일 https://github.com/ED-Won/industrial-AI 
 - 임동민 (포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
 
-![KakaoTalk_20220526_113250633_06](https://user-images.githubusercontent.com/79577623/178651988-0b27a29a-f22d-4317-9008-665b1ead029a.jpg)
+![KakaoTalk_20220526_113250633_09](https://user-images.githubusercontent.com/79577623/178652183-7f4004db-3767-4f86-b5f8-de291f85608c.jpg)
 
 ----------
 ### 학회
