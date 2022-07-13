@@ -14,11 +14,15 @@
 - 이지연 https://github.com/Jiyeon-b/2021_newRepository.git 
 - 최준혁 https://github.com/jhchoi-ii
 
+![KakaoTalk_20220526_113250633_03](https://user-images.githubusercontent.com/79577623/178652042-9852ae12-5b1f-47f8-a026-427a13748382.jpg)
+
 ### 20학번
 - 김병근 (포트폴리오 경진대회 수상) https://github.com/ByeongKeun/Industrial-AI
 - 장민우 https://github.com/mw-jang/industrial-AI
 - 원형일 https://github.com/ED-Won/industrial-AI 
 - 임동민 (포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
+
+![KakaoTalk_20220526_113250633_06](https://user-images.githubusercontent.com/79577623/178651988-0b27a29a-f22d-4317-9008-665b1ead029a.jpg)
 
 ----------
 ### 학회
@@ -26,6 +30,3 @@
 
 ### 마크다운(Markdown) 문법
 - 참고 사이트 : https://gist.github.com/ihoneymon/652be052a0727ad59601
-
-
-![KakaoTalk_20220526_113250633_06](https://user-images.githubusercontent.com/79577623/178651879-9f192f71-71c5-456e-b267-136c0501e95c.jpg)
