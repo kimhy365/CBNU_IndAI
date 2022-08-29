@@ -7,6 +7,8 @@
 - 박영제 https://github.com/redoz02
 - 조유하 https://github.com/HelloAIJ
 - 한병엽 https://github.com/Han-ByungYup
+- 조태상
+- 김홍열
 
 ### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
