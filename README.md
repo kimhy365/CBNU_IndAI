@@ -13,7 +13,7 @@
 ### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
 - 우상진 https://github.com/woosangjin 
-- 이지연 https://github.com/Jiyeon-b/2021_newRepository.git 
+- 이지연 https://github.com/Jiyeon-b 
 - 최준혁 https://github.com/jhchoi-ii
 
 ![KakaoTalk_20220526_113250633_03](https://user-images.githubusercontent.com/79577623/178652042-9852ae12-5b1f-47f8-a026-427a13748382.jpg)
