@@ -9,7 +9,6 @@
 - 한병엽 https://github.com/Han-ByungYup
 - 조태상 https://github.com/Wildcatts
 - 김홍열 https://github.com/momopanda123
-        (http://pinblog.iptime.org/resume/)
 
 ### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
