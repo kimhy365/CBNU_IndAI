@@ -12,6 +12,8 @@
 - 임강혁 https://github.com/kanghyoukLim/Industrial_AI
 - 안성인 
 
+![KakaoTalk_20221117_195542704_01](https://user-images.githubusercontent.com/79577623/202601828-d8dc149c-10b6-4606-8468-a4bed75dc263.jpg)
+
 ### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
 - 우상진 https://github.com/woosangjin 
