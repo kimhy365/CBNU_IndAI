@@ -17,7 +17,7 @@
 ### 22학번
 - 박영제 https://github.com/redoz02
 - 조유하 https://github.com/HelloAIJ
-- 한병엽 https://github.com/Han-ByungYup
+- 한병엽 https://github.com/Han-ByungYup/Industrial_AI
 - 김홍열 https://github.com/momopanda123
 - 임강혁 https://github.com/kanghyoukLim/Industrial_AI
 - 안성인 
