@@ -18,7 +18,7 @@
 - 박영제 https://github.com/redoz02
 - 조유하 https://github.com/HelloAIJ
 - 한병엽 https://github.com/Han-ByungYup/Industrial-AI
-- 김홍열 https://github.com/momopanda123
+- 김홍열 https://gitea.pinblog.codes/CBNU
 - 임강혁 https://github.com/kanghyoukLim/Industrial_AI
 - 안성인 
 
