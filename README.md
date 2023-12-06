@@ -20,7 +20,7 @@
 - 한병엽 https://github.com/Han-ByungYup/Industrial-AI
 - 김홍열 https://gitea.pinblog.codes/CBNU
 - 임강혁 https://github.com/kanghyoukLim/Industrial_AI
-- 안성인 
+- 안성인 https://github.com/siahn254004/industrial-AI
 
 ![KakaoTalk_20221117_195542704_01](https://user-images.githubusercontent.com/79577623/202601828-d8dc149c-10b6-4606-8468-a4bed75dc263.jpg)
 
