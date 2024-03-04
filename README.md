@@ -5,7 +5,7 @@
     
 ### 23학번
 - 김봉균 https://github.com/BONGKUNKIM
-- 이준혁 
+- 이준혁 https://github.com/JunLee1422/CBNU
 - 김정식 https://github.com/CBNU-2023254016
 - 최은주 https://github.com/eunju-juju/juju1.git
 - 김혜영 https://github.com/hyam29 
