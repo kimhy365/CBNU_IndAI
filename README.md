@@ -13,6 +13,7 @@
 - 강필도 https://github.com/Kangpildo/CBNU-KPD
 - 정현일 https://github.com/chohi22/
 
+![KakaoTalk_20240514_094759231](https://github.com/kimhy365/CBNU_IndAI/assets/79577623/27c58949-7d71-41fa-a0fd-ca13c6d04edc)
     
 ### 23학번
 - 김봉균 https://github.com/BONGKUNKIM
