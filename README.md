@@ -2,6 +2,18 @@
 ### 가디언(산업인공지능연구센터 초빙교수)
 - 김현용 https://github.com/kimhy365
   - E-mail : kimhy365@cbnu.ac.kr
+
+### 24학번
+- 김다현 https://github.com/Daphne71
+- 박금나 https://github.com/GNa95
+- 신진영 https://github.com/sinzin0
+- 정용석 https://github.com/Solucionemos/Solucionemos
+- 박길순 https://github.com/ks-park80
+- 이기명
+- 강필도 https://github.com/Kangpildo/CBNU-KPD
+- 정현일 https://github.com/chohi22/
+
+![image](https://github.com/kimhy365/CBNU_IndAI/assets/79577623/98784019-dc6f-4878-abea-ed44a604fccb)
     
 ### 23학번
 - 김봉균 https://github.com/BONGKUNKIM
@@ -11,7 +23,6 @@
 - 김혜영 https://github.com/hyam29 
 
 ![image](https://github.com/kimhy365/CBNU_IndAI/assets/79577623/98784019-dc6f-4878-abea-ed44a604fccb)
-
   
 ### 22학번
 - 박영제 https://github.com/redoz02
