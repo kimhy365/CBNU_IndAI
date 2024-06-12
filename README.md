@@ -27,10 +27,11 @@
 ### 22학번
 - 박영제 https://github.com/redoz02
 - 조유하 https://github.com/HelloAIJ
-- 한병엽(포트폴리오 경진대회 수상) https://github.com/Han-ByungYup/Industrial-AI
+- 한병엽('23년 포트폴리오 경진대회 수상) https://github.com/Han-ByungYup/Industrial-AI
 - 김홍열 https://gitea.pinblog.codes/CBNU
 - 임강혁 https://github.com/kanghyoukLim/Industrial_AI
 - 안성인 https://github.com/siahn254004/industrial-AI
+- 이진우 https://github.com/leejinwoo90/portfolio
 
 ![KakaoTalk_20221117_195542704_01](https://user-images.githubusercontent.com/79577623/202601828-d8dc149c-10b6-4606-8468-a4bed75dc263.jpg)
 
@@ -47,7 +48,7 @@
 - 김병근 (포트폴리오 경진대회 수상) https://github.com/ByeongKeun/Industrial-AI
 - 장민우 https://github.com/mw-jang/industrial-AI
 - 원형일 https://github.com/ED-Won/industrial-AI 
-- 임동민 (포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
+- 임동민 ('22년 포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
 
 ![KakaoTalk_20220526_113250633_09](https://user-images.githubusercontent.com/79577623/178652183-7f4004db-3767-4f86-b5f8-de291f85608c.jpg)
 
