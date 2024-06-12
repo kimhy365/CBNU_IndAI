@@ -37,7 +37,7 @@
 
 ### 21학번
 - 이지호 https://github.com/2jiho/CBNU_AI_Ex_30
-- 우상진 https://github.com/woosangjin 
+- 우상진 ('22년 포트폴리오 경진대회 수상) https://github.com/woosangjin 
 - 이지연 https://github.com/Jiyeon-b 
 - 최준혁 https://github.com/jhchoi-ii
 - 윤범희 https://github.com/kkybh
@@ -45,10 +45,10 @@
 ![KakaoTalk_20220526_113250633_03](https://user-images.githubusercontent.com/79577623/178652042-9852ae12-5b1f-47f8-a026-427a13748382.jpg)
 
 ### 20학번
-- 김병근 (포트폴리오 경진대회 수상) https://github.com/ByeongKeun/Industrial-AI
+- 김병근 ('21년 포트폴리오 경진대회 수상) https://github.com/ByeongKeun/Industrial-AI
 - 장민우 https://github.com/mw-jang/industrial-AI
 - 원형일 https://github.com/ED-Won/industrial-AI 
-- 임동민 ('22년 포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
+- 임동민 ('21년 포트폴리오 경진대회 수상) https://github.com/dmlim-cbu
 
 ![KakaoTalk_20220526_113250633_09](https://user-images.githubusercontent.com/79577623/178652183-7f4004db-3767-4f86-b5f8-de291f85608c.jpg)
 
