@@ -10,7 +10,7 @@
 - 정용석 https://github.com/Solucionemos/Solucionemos
 - 박길순 https://github.com/ks-park80
 - 이기명
-- 강필도 https://github.com/Kangpildo/CBNU-KPD
+- 강필도 https://kangpildo.github.io/
 - 정현일 https://github.com/chohi22/
 
 ![KakaoTalk_20240514_094759231](https://github.com/kimhy365/CBNU_IndAI/assets/79577623/27c58949-7d71-41fa-a0fd-ca13c6d04edc)
