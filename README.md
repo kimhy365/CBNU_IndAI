@@ -9,7 +9,7 @@
 - 신진영 https://github.com/sinzin0
 - 정용석 https://github.com/Solucionemos/Solucionemos
 - 박길순 https://github.com/ks-park80
-- 이기명
+- 이기명 https://github.com/leekimyung2/LKM
 - 강필도 https://kangpildo.github.io/
 - 정현일 https://github.com/chohi22/
 
