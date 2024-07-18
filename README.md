@@ -34,9 +34,6 @@
 - 이진우 https://github.com/leejinwoo90/LEEJINWOO
 - 한희주 https://github.com/Kucudas/Industrial-AI
   
-![image](https://github.com/user-attachments/assets/067751f2-b90d-430a-94b1-0ad66eec02a6)
-
-
 ![KakaoTalk_20221117_195542704_01](https://user-images.githubusercontent.com/79577623/202601828-d8dc149c-10b6-4606-8468-a4bed75dc263.jpg)
 
 ### 21학번
