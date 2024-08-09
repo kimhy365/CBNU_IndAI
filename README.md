@@ -20,7 +20,8 @@
 - 이준혁 https://github.com/JunLee1422/CBNU2023254019
 - 김정식 https://github.com/CBNU-2023254016
 - 최은주 https://github.com/eunju-juju/juju1.git
-- 김혜영 https://github.com/hyam29 
+- 김혜영 https://github.com/hyam29
+- 장욱진 https://github.com/wookjin
 
 ![image](https://github.com/kimhy365/CBNU_IndAI/assets/79577623/98784019-dc6f-4878-abea-ed44a604fccb)
   
