@@ -19,7 +19,7 @@
 - 김봉균 https://github.com/BONGKUNKIM
 - 이준혁 https://github.com/JunLee1422/CBNU2023254019
 - 김정식 https://github.com/CBNU-2023254016
-- 최은주 https://github.com/eunju-juju/juju1.git
+- 최은주 https://github.com/eunju-juju/juju1
 - 김혜영 https://github.com/hyam29
 - 장욱진 https://github.com/wookjin
 
