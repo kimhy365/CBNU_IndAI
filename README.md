@@ -18,7 +18,7 @@
 ### 23학번
 - 김봉균 https://github.com/BONGKUNKIM
 - 이준혁 https://github.com/JunLee1422/CBNU2023254019
-- 김정식 https://github.com/CBNU-2023254016
+- 김정식('24년 포트폴리오 경진대회 수상) https://github.com/CBNU-2023254016
 - 최은주 https://github.com/eunju-juju/juju1
 - 김혜영 https://github.com/hyam29
 - 장욱진 https://github.com/wookjin
@@ -29,7 +29,7 @@
 - 박영제 https://github.com/redoz02
 - 조유하 https://github.com/HelloAIJ
 - 한병엽('23년 포트폴리오 경진대회 수상) https://github.com/Han-ByungYup/Industrial-AI
-- 김홍열 https://gitea.pinblog.codes/CBNU
+- 김홍열('24년 포트폴리오 경진대회 수상) https://gitea.pinblog.codes/CBNU
 - 임강혁 https://github.com/kanghyoukLim/Industrial_AI
 - 안성인 https://github.com/siahn254004/industrial-AI
 - 이진우 https://github.com/leejinwoo90/LEEJINWOO
