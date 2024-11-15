@@ -2,6 +2,9 @@
 ### 가디언(산업인공지능연구센터 초빙교수)
 - 김현용 https://github.com/kimhy365
   - E-mail : kimhy365@cbnu.ac.kr
+    
+![_FVS2818](https://github.com/user-attachments/assets/ac13ad50-20a8-410b-b903-22f39eb00efb)
+
 
 ### 24학번
 - 김다현 https://github.com/Daphne71
